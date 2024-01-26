@@ -15,19 +15,20 @@ Python repository for machine learning, featuring PDF data extraction using PyMu
    - Open Anaconda Navigator and launch Jupyter Lab.
 
 4. **Run EZline Test Notebook:**
+   - For running the cell in notebook use this key `SHIFT + ENTER `
    - Open the `EZline_test.ipynb` file in Jupyter Lab.
    - Run the notebook cells from start to end.
 
-5. **Run Flask Web Application:**
+6. **Run Flask Web Application:**
    - Open Anaconda Prompt.
    - Navigate to the directory where `app.py` is located.
    - Run the script using the command: `python app.py`.
 
-6. **Access Web Application:**
+7. **Access Web Application:**
    - Open the provided URL in your browser.
    - Click on the "Download Data" button to fetch the data.
 
-7. **Watch the Instructional Video:**
+8. **Watch the Instructional Video:**
    - For detailed steps, refer to the instructional video provided `Instruction Video.mp4`.
 
 ## Running Requirements.txt:
