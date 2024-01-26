@@ -30,6 +30,10 @@ Python repository for machine learning, featuring PDF data extraction using PyMu
 
 8. **Watch the Instructional Video:**
    - For detailed steps, refer to the instructional video provided `Instruction Video.mp4`.
+     
+9. **Watch the Instructional Video:**
+   - For detailed steps, refer to the [instructional video](https://vimeo.com/906819081?share=copy) provided.
+
 
 ## Running Requirements.txt:
 
