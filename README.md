@@ -1,43 +1,54 @@
-# PDF-and-Web-Data-Scraping-for-Machine-Learning
-Python repository for machine learning, featuring PDF data extraction using PyMuPDF and web scraping with BeautifulSoup, integrated with pandas, numpy, and MySQL for streamlined data processing.
-# EZline Machine Learning Repository
+# PDF and Web Data Scraping for Machine Learning
+
+Welcome to the EZline Machine Learning Repository! This repository features PDF data extraction using PyMuPDF and web scraping with BeautifulSoup, integrated with pandas, numpy, and MySQL for streamlined data processing.
+
+## Table of Contents
+- [Instructions for Running the Project](#instructions-for-running-the-project)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contact](#contact)
+- [License](#license)
 
 ## Instructions for Running the Project
 
-1. **Download and Extract EZline.zip:**
-   - Download the `ezline.zip` file.
-   - Extract the file to the directory where Anaconda is typically set up, often at `C:/Users/YourPCName/`.
+### Download and Extract EZline.zip:
+1. Download the `ezline.zip` file.
+2. Extract the file to the directory where Anaconda is typically set up, often at `C:/Users/YourPCName/`.
 
-2. **Start XAMPP Server:**
-   - Open XAMPP and start both Apache and MySQL servers.
+### Start XAMPP Server:
+1. Open XAMPP and start both Apache and MySQL servers.
 
-3. **Open Anaconda Navigator:**
-   - Open Anaconda Navigator and launch Jupyter Lab.
+### Open Anaconda Navigator:
+1. Open Anaconda Navigator and launch Jupyter Lab.
 
-4. **Run EZline Test Notebook:**
-   - For running the cell in notebook use this key `SHIFT + ENTER `
-   - Open the `EZline_test.ipynb` file in Jupyter Lab.
-   - Run the notebook cells from start to end.
+### Run EZline Test Notebook:
+1. Open the `EZline_test.ipynb` file in Jupyter Lab.
+2. Run the notebook cells from start to end using SHIFT + ENTER.
 
-6. **Run Flask Web Application:**
-   - Open Anaconda Prompt.
-   - Navigate to the directory where `app.py` is located.
-   - Run the script using the command: `python app.py`.
+### Run Flask Web Application:
+1. Open Anaconda Prompt.
+2. Navigate to the directory where `app.py` is located.
+3. Run the script using the command: `python app.py`.
 
-7. **Access Web Application:**
-   - Open the provided URL in your browser.
-   - Click on the "Download Data" button to fetch the data.
+### Access Web Application:
+1. Open the provided URL in your browser.
+2. Click on the "Download Data" button to fetch the data.
 
-8. **Watch the Instructional Video:**
-   - For detailed steps, refer to the instructional video provided `Instruction Video.mp4`.
-     
-9. **Watch the Instructional Video:**
-   - For detailed steps, refer to the [instructional video](https://vimeo.com/906819081?share=copy) provided.
+### Watch the Instructional Video:
+For detailed steps, refer to the instructional video provided in `Instruction Video.mp4`.
 
-
-## Running Requirements.txt:
-
+### Installation
 To install the required dependencies, run the following command in Anaconda Prompt:
-
-```bash
+```sh
 pip install -r requirements.txt
+```
+## Usage
+Start the project following the steps mentioned above and use the provided tools and scripts for your data extraction and processing needs.
+
+## Contact
+Feel free to contact me on LinkedIn for any questions or collaborations:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-muqtasid-ali-91a0a623a/)
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
