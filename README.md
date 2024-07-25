@@ -13,7 +13,7 @@ Welcome to the EZline Machine Learning Repository! This repository features PDF 
 
 ### 📥 Download and Extract EZline.zip:
 1. Download the `ezline.zip` file.
-2. Extract the file to the directory where Anaconda is typically set up, often at `C:/Users/syed-muqtasid/`.
+2. Extract the file to the directory where Anaconda is typically set up, often at `C:/Users/syed-muqtasid-ali/`.
 
 ### 🖥️ Start XAMPP Server:
 1. Open XAMPP and start both Apache and MySQL servers.
